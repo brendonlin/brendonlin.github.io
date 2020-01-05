@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+你好！
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+这里是名为《边沁的现代记录》的博客。我是作者Brendon.Lin。这个博客主要记录我在软件和生活方面的文章。希望可以给到你一些有趣的想法。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+为什么博客名叫做有《边沁的现代记录》？因为边沁是我最喜欢的哲学家之一。我希望能够以边沁的一些视角来观察这个世界。
 
-
-[jekyll-organization]: https://github.com/jekyll
