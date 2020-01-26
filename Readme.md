@@ -1,4 +1,4 @@
 ## Dev
 
 Server local: `jekyll serve`
-Push to github: `jekyll`
+Push to github: `git push origin master`
